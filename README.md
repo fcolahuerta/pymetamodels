@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffcolahuerta%2Fpymetamodels.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffcolahuerta%2Fpymetamodels?ref=badge_shield)
+
 Pymetamodels package for materials, systems and component metamodeling
 ======================================================================
 
@@ -40,3 +42,6 @@ Pymetamodels requires [NumPy](http://www.numpy.org/), [SciPy](http://www.scipy.o
 ```
 
 The packages are normally included with most Python bundles, such as Anaconda. Generally, they are installed automatically when using pip to install pymetamodels.
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffcolahuerta%2Fpymetamodels.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffcolahuerta%2Fpymetamodels?ref=badge_large)
